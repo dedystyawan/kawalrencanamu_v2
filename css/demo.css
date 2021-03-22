@@ -1,4 +1,4 @@
-/* General Blueprint Style */
+/* General Style */
 
 @font-face {
 	font-family: 'bpicons';
@@ -65,7 +65,7 @@ a:hover {
 }
 
 
-/* Blueprint header */
+/*  header */
 
 .bp-header {
 	padding: 6em 10vw 2em;
