@@ -215,6 +215,26 @@ html.js,
 	max-height: 71%;
 }
 
+
+.poster6 {
+	position: absolute;
+	bottom: 3vh;
+	left:61%;
+	max-width: 71%;
+	max-height: 71%;
+}
+
+
+.poster-under-construction {
+	position: absolute;
+	bottom: 3vh;
+	left:51%;
+	max-width: 71%;
+	max-height: 71%;
+}
+
+
+
 /* Menu button */
 
 .menu-button {
