@@ -367,4 +367,18 @@ html.js,
 	.poster {
 		margin: 1em;
 	}
+	.poster2 {
+		margin-top: 1em;
+		margin-left: 1em;
+		left:31%;
+		max-width: 61%;
+		max-height: 61%;
+		}
+	.poster6 {
+	margin-top: 1em;
+	margin-left: 1em;
+	left:41%;
+	max-width: 51%;
+	max-height: 51%;
+	}
 }
